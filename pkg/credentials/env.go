@@ -28,7 +28,7 @@ import (
 	corev1 "k8s.io/api/core/v1"
 	"sigs.k8s.io/controller-runtime/pkg/client"
 
-	barmanApi "github.com/cloudnative-pg/barman-cloud/pkg/api"
+	barmanApi "github.com/davidchandra95/barman-cloud/pkg/api"
 )
 
 const (

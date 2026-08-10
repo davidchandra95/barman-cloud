@@ -24,7 +24,7 @@ import (
 	"fmt"
 	"strings"
 
-	barmanApi "github.com/cloudnative-pg/barman-cloud/pkg/api"
+	barmanApi "github.com/davidchandra95/barman-cloud/pkg/api"
 )
 
 // CloudWalRestoreOptions returns the options needed to execute the barman command successfully

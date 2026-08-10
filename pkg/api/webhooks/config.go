@@ -22,8 +22,8 @@ package webhooks
 import (
 	"k8s.io/apimachinery/pkg/util/validation/field"
 
-	"github.com/cloudnative-pg/barman-cloud/pkg/api"
-	"github.com/cloudnative-pg/barman-cloud/pkg/utils"
+	"github.com/davidchandra95/barman-cloud/pkg/api"
+	"github.com/davidchandra95/barman-cloud/pkg/utils"
 )
 
 // ValidateBackupConfiguration validates the backup configuration

@@ -25,7 +25,7 @@ import (
 
 	machineryapi "github.com/cloudnative-pg/machinery/pkg/api"
 
-	barmanApi "github.com/cloudnative-pg/barman-cloud/pkg/api"
+	barmanApi "github.com/davidchandra95/barman-cloud/pkg/api"
 
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"

@@ -31,7 +31,7 @@ import (
 	"github.com/cloudnative-pg/machinery/pkg/fileutils"
 	"github.com/cloudnative-pg/machinery/pkg/log"
 
-	"github.com/cloudnative-pg/barman-cloud/pkg/utils"
+	"github.com/davidchandra95/barman-cloud/pkg/utils"
 )
 
 // BarmanArchiver implements a WAL archiver based
