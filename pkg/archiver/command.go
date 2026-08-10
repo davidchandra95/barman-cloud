@@ -23,9 +23,9 @@ import (
 	"context"
 	"fmt"
 
-	barmanApi "github.com/cloudnative-pg/barman-cloud/pkg/api"
-	barmanCommand "github.com/cloudnative-pg/barman-cloud/pkg/command"
-	"github.com/cloudnative-pg/barman-cloud/pkg/utils"
+	barmanApi "github.com/davidchandra95/barman-cloud/pkg/api"
+	barmanCommand "github.com/davidchandra95/barman-cloud/pkg/command"
+	"github.com/davidchandra95/barman-cloud/pkg/utils"
 )
 
 // BarmanCloudWalArchiveOptions calculates the set of options to be

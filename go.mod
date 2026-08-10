@@ -1,4 +1,4 @@
-module github.com/cloudnative-pg/barman-cloud
+module github.com/davidchandra95/barman-cloud
 
 go 1.26.0
 

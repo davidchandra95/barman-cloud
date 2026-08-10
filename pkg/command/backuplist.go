@@ -51,9 +51,9 @@ import (
 
 	"github.com/cloudnative-pg/machinery/pkg/log"
 
-	barmanApi "github.com/cloudnative-pg/barman-cloud/pkg/api"
-	"github.com/cloudnative-pg/barman-cloud/pkg/catalog"
-	"github.com/cloudnative-pg/barman-cloud/pkg/utils"
+	barmanApi "github.com/davidchandra95/barman-cloud/pkg/api"
+	"github.com/davidchandra95/barman-cloud/pkg/catalog"
+	"github.com/davidchandra95/barman-cloud/pkg/utils"
 )
 
 func executeQueryCommand(

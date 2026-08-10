@@ -31,8 +31,8 @@ import (
 	"github.com/cloudnative-pg/machinery/pkg/execlog"
 	"github.com/cloudnative-pg/machinery/pkg/log"
 
-	"github.com/cloudnative-pg/barman-cloud/pkg/spool"
-	"github.com/cloudnative-pg/barman-cloud/pkg/utils"
+	"github.com/davidchandra95/barman-cloud/pkg/spool"
+	"github.com/davidchandra95/barman-cloud/pkg/utils"
 )
 
 const (

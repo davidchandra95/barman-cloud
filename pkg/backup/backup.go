@@ -29,10 +29,10 @@ import (
 	"github.com/cloudnative-pg/machinery/pkg/execlog"
 	"github.com/cloudnative-pg/machinery/pkg/log"
 
-	barmanApi "github.com/cloudnative-pg/barman-cloud/pkg/api"
-	barmanCatalog "github.com/cloudnative-pg/barman-cloud/pkg/catalog"
-	barmanCommand "github.com/cloudnative-pg/barman-cloud/pkg/command"
-	"github.com/cloudnative-pg/barman-cloud/pkg/utils"
+	barmanApi "github.com/davidchandra95/barman-cloud/pkg/api"
+	barmanCatalog "github.com/davidchandra95/barman-cloud/pkg/catalog"
+	barmanCommand "github.com/davidchandra95/barman-cloud/pkg/command"
+	"github.com/davidchandra95/barman-cloud/pkg/utils"
 )
 
 // Command represents a barman backup command

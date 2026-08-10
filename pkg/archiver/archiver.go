@@ -27,10 +27,10 @@ import (
 
 	"github.com/cloudnative-pg/machinery/pkg/log"
 
-	"github.com/cloudnative-pg/barman-cloud/pkg/api"
-	"github.com/cloudnative-pg/barman-cloud/pkg/command"
-	"github.com/cloudnative-pg/barman-cloud/pkg/spool"
-	"github.com/cloudnative-pg/barman-cloud/pkg/walarchive"
+	"github.com/davidchandra95/barman-cloud/pkg/api"
+	"github.com/davidchandra95/barman-cloud/pkg/command"
+	"github.com/davidchandra95/barman-cloud/pkg/spool"
+	"github.com/davidchandra95/barman-cloud/pkg/walarchive"
 )
 
 // WALArchiver is a structure containing every info need to archive a set of WAL files

@@ -26,8 +26,8 @@ import (
 
 	"github.com/cloudnative-pg/machinery/pkg/log"
 
-	barmanApi "github.com/cloudnative-pg/barman-cloud/pkg/api"
-	barmanUtils "github.com/cloudnative-pg/barman-cloud/pkg/utils"
+	barmanApi "github.com/davidchandra95/barman-cloud/pkg/api"
+	barmanUtils "github.com/davidchandra95/barman-cloud/pkg/utils"
 )
 
 // DeleteBackupsByPolicy executes a command that deletes backups, given the Barman object store configuration,
